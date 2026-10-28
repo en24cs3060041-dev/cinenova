@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CineNova --- Movie Ticket Booking Platform
 
 CineNova is a full-stack movie discovery and cinema ticket-booking web
@@ -442,3 +443,6 @@ behavior have been tested.
 
 No license is specified in this repository yet. Add a `LICENSE` file
 before distributing the project if you intend to publish it for reuse.
+=======
+# cinenova
+>>>>>>> e0b180b3d7645d716d3e858c14f0a585d3a5d0c5
